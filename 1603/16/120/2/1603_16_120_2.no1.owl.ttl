@@ -24,7 +24,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:1> ;
     skos:prefLabel "Djérem"@fra-Latn ;
-    wdata:q7200235 "CM001001" ;
+    wdata:Q7200235 "CM001001" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -104,7 +104,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:10> ;
     skos:prefLabel "Fako"@fra-Latn ;
-    wdata:q7200235 "CM010001" ;
+    wdata:Q7200235 "CM010001" ;
 .
 
 <urn:mdciii:1603:16:120:2:10002>
@@ -116,7 +116,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:10> ;
     skos:prefLabel "Kupe-Manenguba"@fra-Latn ;
-    wdata:q7200235 "CM010002" ;
+    wdata:Q7200235 "CM010002" ;
 .
 
 <urn:mdciii:1603:16:120:2:10003>
@@ -128,7 +128,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:10> ;
     skos:prefLabel "Lebialem"@fra-Latn ;
-    wdata:q7200235 "CM010003" ;
+    wdata:Q7200235 "CM010003" ;
 .
 
 <urn:mdciii:1603:16:120:2:10004>
@@ -140,7 +140,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:10> ;
     skos:prefLabel "Manyu"@fra-Latn ;
-    wdata:q7200235 "CM010004" ;
+    wdata:Q7200235 "CM010004" ;
 .
 
 <urn:mdciii:1603:16:120:2:10005>
@@ -152,7 +152,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:10> ;
     skos:prefLabel "Meme"@fra-Latn ;
-    wdata:q7200235 "CM010005" ;
+    wdata:Q7200235 "CM010005" ;
 .
 
 <urn:mdciii:1603:16:120:2:10006>
@@ -164,7 +164,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:10> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:10> ;
     skos:prefLabel "Ndian"@fra-Latn ;
-    wdata:q7200235 "CM010006" ;
+    wdata:Q7200235 "CM010006" ;
 .
 
 <urn:mdciii:1603:16:120:2:1002>
@@ -176,7 +176,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:1> ;
     skos:prefLabel "Faro-et-Déo"@fra-Latn ;
-    wdata:q7200235 "CM001002" ;
+    wdata:Q7200235 "CM001002" ;
 .
 
 <urn:mdciii:1603:16:120:2:1003>
@@ -188,7 +188,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:1> ;
     skos:prefLabel "Mayo-Banyo"@fra-Latn ;
-    wdata:q7200235 "CM001003" ;
+    wdata:Q7200235 "CM001003" ;
 .
 
 <urn:mdciii:1603:16:120:2:1004>
@@ -200,7 +200,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:1> ;
     skos:prefLabel "Mbéré"@fra-Latn ;
-    wdata:q7200235 "CM001004" ;
+    wdata:Q7200235 "CM001004" ;
 .
 
 <urn:mdciii:1603:16:120:2:1005>
@@ -212,7 +212,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:1> ;
     skos:prefLabel "Vina"@fra-Latn ;
-    wdata:q7200235 "CM001005" ;
+    wdata:Q7200235 "CM001005" ;
 .
 
 <urn:mdciii:1603:16:120:2:2001>
@@ -224,7 +224,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:2> ;
     skos:prefLabel "Haute-Sanaga"@fra-Latn ;
-    wdata:q7200235 "CM002001" ;
+    wdata:Q7200235 "CM002001" ;
 .
 
 <urn:mdciii:1603:16:120:2:2002>
@@ -236,7 +236,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:2> ;
     skos:prefLabel "Lekié"@fra-Latn ;
-    wdata:q7200235 "CM002002" ;
+    wdata:Q7200235 "CM002002" ;
 .
 
 <urn:mdciii:1603:16:120:2:2003>
@@ -248,7 +248,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:2> ;
     skos:prefLabel "Mbam-et-Inoubou"@fra-Latn ;
-    wdata:q7200235 "CM002003" ;
+    wdata:Q7200235 "CM002003" ;
 .
 
 <urn:mdciii:1603:16:120:2:2004>
@@ -260,7 +260,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:2> ;
     skos:prefLabel "Mbam-et-Kim"@fra-Latn ;
-    wdata:q7200235 "CM002004" ;
+    wdata:Q7200235 "CM002004" ;
 .
 
 <urn:mdciii:1603:16:120:2:2005>
@@ -272,7 +272,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:2> ;
     skos:prefLabel "Mefou-et-Afamba"@fra-Latn ;
-    wdata:q7200235 "CM002005" ;
+    wdata:Q7200235 "CM002005" ;
 .
 
 <urn:mdciii:1603:16:120:2:2006>
@@ -284,7 +284,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:2> ;
     skos:prefLabel "Mefou-et-Akono"@fra-Latn ;
-    wdata:q7200235 "CM002006" ;
+    wdata:Q7200235 "CM002006" ;
 .
 
 <urn:mdciii:1603:16:120:2:2007>
@@ -296,7 +296,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:2> ;
     skos:prefLabel "Mfoundi"@fra-Latn ;
-    wdata:q7200235 "CM002007" ;
+    wdata:Q7200235 "CM002007" ;
 .
 
 <urn:mdciii:1603:16:120:2:2008>
@@ -308,7 +308,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:2> ;
     skos:prefLabel "Nyong-et-Kellé"@fra-Latn ;
-    wdata:q7200235 "CM002008" ;
+    wdata:Q7200235 "CM002008" ;
 .
 
 <urn:mdciii:1603:16:120:2:2009>
@@ -320,7 +320,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:2> ;
     skos:prefLabel "Nyong-et-Mfoumou"@fra-Latn ;
-    wdata:q7200235 "CM002009" ;
+    wdata:Q7200235 "CM002009" ;
 .
 
 <urn:mdciii:1603:16:120:2:2010>
@@ -332,7 +332,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:2> ;
     skos:prefLabel "Nyong-et-So'o"@fra-Latn ;
-    wdata:q7200235 "CM002010" ;
+    wdata:Q7200235 "CM002010" ;
 .
 
 <urn:mdciii:1603:16:120:2:3001>
@@ -344,7 +344,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:3> ;
     skos:prefLabel "Boumba-et-Ngoko"@fra-Latn ;
-    wdata:q7200235 "CM003001" ;
+    wdata:Q7200235 "CM003001" ;
 .
 
 <urn:mdciii:1603:16:120:2:3002>
@@ -356,7 +356,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:3> ;
     skos:prefLabel "Haut-Nyong"@fra-Latn ;
-    wdata:q7200235 "CM003002" ;
+    wdata:Q7200235 "CM003002" ;
 .
 
 <urn:mdciii:1603:16:120:2:3003>
@@ -368,7 +368,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:3> ;
     skos:prefLabel "Kadey"@fra-Latn ;
-    wdata:q7200235 "CM003003" ;
+    wdata:Q7200235 "CM003003" ;
 .
 
 <urn:mdciii:1603:16:120:2:3004>
@@ -380,7 +380,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:3> ;
     skos:prefLabel "Lom-et-Djérem"@fra-Latn ;
-    wdata:q7200235 "CM003004" ;
+    wdata:Q7200235 "CM003004" ;
 .
 
 <urn:mdciii:1603:16:120:2:4001>
@@ -392,7 +392,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:4> ;
     skos:prefLabel "Diamaré"@fra-Latn ;
-    wdata:q7200235 "CM004001" ;
+    wdata:Q7200235 "CM004001" ;
 .
 
 <urn:mdciii:1603:16:120:2:4002>
@@ -404,7 +404,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:4> ;
     skos:prefLabel "Logone-et-Chari"@fra-Latn ;
-    wdata:q7200235 "CM004002" ;
+    wdata:Q7200235 "CM004002" ;
 .
 
 <urn:mdciii:1603:16:120:2:4003>
@@ -416,7 +416,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:4> ;
     skos:prefLabel "Mayo-Danay"@fra-Latn ;
-    wdata:q7200235 "CM004003" ;
+    wdata:Q7200235 "CM004003" ;
 .
 
 <urn:mdciii:1603:16:120:2:4004>
@@ -428,7 +428,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:4> ;
     skos:prefLabel "Mayo-Kani"@fra-Latn ;
-    wdata:q7200235 "CM004004" ;
+    wdata:Q7200235 "CM004004" ;
 .
 
 <urn:mdciii:1603:16:120:2:4005>
@@ -440,7 +440,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:4> ;
     skos:prefLabel "Mayo-Sava"@fra-Latn ;
-    wdata:q7200235 "CM004005" ;
+    wdata:Q7200235 "CM004005" ;
 .
 
 <urn:mdciii:1603:16:120:2:4006>
@@ -452,7 +452,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:4> ;
     skos:prefLabel "Mayo-Tsanaga"@fra-Latn ;
-    wdata:q7200235 "CM004006" ;
+    wdata:Q7200235 "CM004006" ;
 .
 
 <urn:mdciii:1603:16:120:2:5001>
@@ -464,7 +464,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:5> ;
     skos:prefLabel "Moungo"@fra-Latn ;
-    wdata:q7200235 "CM005001" ;
+    wdata:Q7200235 "CM005001" ;
 .
 
 <urn:mdciii:1603:16:120:2:5002>
@@ -476,7 +476,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:5> ;
     skos:prefLabel "Nkam"@fra-Latn ;
-    wdata:q7200235 "CM005002" ;
+    wdata:Q7200235 "CM005002" ;
 .
 
 <urn:mdciii:1603:16:120:2:5003>
@@ -488,7 +488,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:5> ;
     skos:prefLabel "Sanaga-Maritime"@fra-Latn ;
-    wdata:q7200235 "CM005003" ;
+    wdata:Q7200235 "CM005003" ;
 .
 
 <urn:mdciii:1603:16:120:2:5004>
@@ -500,7 +500,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:5> ;
     skos:prefLabel "Wouri"@fra-Latn ;
-    wdata:q7200235 "CM005004" ;
+    wdata:Q7200235 "CM005004" ;
 .
 
 <urn:mdciii:1603:16:120:2:6001>
@@ -512,7 +512,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:6> ;
     skos:prefLabel "Bénoué"@fra-Latn ;
-    wdata:q7200235 "CM006001" ;
+    wdata:Q7200235 "CM006001" ;
 .
 
 <urn:mdciii:1603:16:120:2:6002>
@@ -524,7 +524,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:6> ;
     skos:prefLabel "Faro"@fra-Latn ;
-    wdata:q7200235 "CM006002" ;
+    wdata:Q7200235 "CM006002" ;
 .
 
 <urn:mdciii:1603:16:120:2:6003>
@@ -536,7 +536,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:6> ;
     skos:prefLabel "Mayo-Louti"@fra-Latn ;
-    wdata:q7200235 "CM006003" ;
+    wdata:Q7200235 "CM006003" ;
 .
 
 <urn:mdciii:1603:16:120:2:6004>
@@ -548,7 +548,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:6> ;
     skos:prefLabel "Mayo-Rey"@fra-Latn ;
-    wdata:q7200235 "CM006004" ;
+    wdata:Q7200235 "CM006004" ;
 .
 
 <urn:mdciii:1603:16:120:2:7001>
@@ -560,7 +560,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:7> ;
     skos:prefLabel "Boyo"@fra-Latn ;
-    wdata:q7200235 "CM007001" ;
+    wdata:Q7200235 "CM007001" ;
 .
 
 <urn:mdciii:1603:16:120:2:7002>
@@ -572,7 +572,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:7> ;
     skos:prefLabel "Bui"@fra-Latn ;
-    wdata:q7200235 "CM007002" ;
+    wdata:Q7200235 "CM007002" ;
 .
 
 <urn:mdciii:1603:16:120:2:7003>
@@ -584,7 +584,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:7> ;
     skos:prefLabel "Donga-Mantung"@fra-Latn ;
-    wdata:q7200235 "CM007003" ;
+    wdata:Q7200235 "CM007003" ;
 .
 
 <urn:mdciii:1603:16:120:2:7004>
@@ -596,7 +596,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:7> ;
     skos:prefLabel "Menchum"@fra-Latn ;
-    wdata:q7200235 "CM007004" ;
+    wdata:Q7200235 "CM007004" ;
 .
 
 <urn:mdciii:1603:16:120:2:7005>
@@ -608,7 +608,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:7> ;
     skos:prefLabel "Mezam"@fra-Latn ;
-    wdata:q7200235 "CM007005" ;
+    wdata:Q7200235 "CM007005" ;
 .
 
 <urn:mdciii:1603:16:120:2:7006>
@@ -620,7 +620,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:7> ;
     skos:prefLabel "Momo"@fra-Latn ;
-    wdata:q7200235 "CM007006" ;
+    wdata:Q7200235 "CM007006" ;
 .
 
 <urn:mdciii:1603:16:120:2:7007>
@@ -632,7 +632,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:7> ;
     skos:prefLabel "Ngo-Ketunjia"@fra-Latn ;
-    wdata:q7200235 "CM007007" ;
+    wdata:Q7200235 "CM007007" ;
 .
 
 <urn:mdciii:1603:16:120:2:8001>
@@ -644,7 +644,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:8> ;
     skos:prefLabel "Bamboutos"@fra-Latn ;
-    wdata:q7200235 "CM008001" ;
+    wdata:Q7200235 "CM008001" ;
 .
 
 <urn:mdciii:1603:16:120:2:8002>
@@ -656,7 +656,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:8> ;
     skos:prefLabel "Haut-Nkam"@fra-Latn ;
-    wdata:q7200235 "CM008002" ;
+    wdata:Q7200235 "CM008002" ;
 .
 
 <urn:mdciii:1603:16:120:2:8003>
@@ -668,7 +668,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:8> ;
     skos:prefLabel "Hauts-Plateaux"@fra-Latn ;
-    wdata:q7200235 "CM008003" ;
+    wdata:Q7200235 "CM008003" ;
 .
 
 <urn:mdciii:1603:16:120:2:8004>
@@ -680,7 +680,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:8> ;
     skos:prefLabel "Koung-Khi"@fra-Latn ;
-    wdata:q7200235 "CM008004" ;
+    wdata:Q7200235 "CM008004" ;
 .
 
 <urn:mdciii:1603:16:120:2:8005>
@@ -692,7 +692,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:8> ;
     skos:prefLabel "Menoua"@fra-Latn ;
-    wdata:q7200235 "CM008005" ;
+    wdata:Q7200235 "CM008005" ;
 .
 
 <urn:mdciii:1603:16:120:2:8006>
@@ -704,7 +704,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:8> ;
     skos:prefLabel "Mifi"@fra-Latn ;
-    wdata:q7200235 "CM008006" ;
+    wdata:Q7200235 "CM008006" ;
 .
 
 <urn:mdciii:1603:16:120:2:8007>
@@ -716,7 +716,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:8> ;
     skos:prefLabel "Ndé"@fra-Latn ;
-    wdata:q7200235 "CM008007" ;
+    wdata:Q7200235 "CM008007" ;
 .
 
 <urn:mdciii:1603:16:120:2:8008>
@@ -728,7 +728,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:8> ;
     skos:prefLabel "Noun"@fra-Latn ;
-    wdata:q7200235 "CM008008" ;
+    wdata:Q7200235 "CM008008" ;
 .
 
 <urn:mdciii:1603:16:120:2:9001>
@@ -740,7 +740,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:9> ;
     skos:prefLabel "Dja-et-Lobo"@fra-Latn ;
-    wdata:q7200235 "CM009001" ;
+    wdata:Q7200235 "CM009001" ;
 .
 
 <urn:mdciii:1603:16:120:2:9002>
@@ -752,7 +752,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:9> ;
     skos:prefLabel "Mvila"@fra-Latn ;
-    wdata:q7200235 "CM009002" ;
+    wdata:Q7200235 "CM009002" ;
 .
 
 <urn:mdciii:1603:16:120:2:9003>
@@ -764,7 +764,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:9> ;
     skos:prefLabel "Océan"@fra-Latn ;
-    wdata:q7200235 "CM009003" ;
+    wdata:Q7200235 "CM009003" ;
 .
 
 <urn:mdciii:1603:16:120:2:9004>
@@ -776,6 +776,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:120:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:120:1:9> ;
     skos:prefLabel "Vallée-du-Ntem"@fra-Latn ;
-    wdata:q7200235 "CM009004" ;
+    wdata:Q7200235 "CM009004" ;
 .
 

@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:120()>
     a skos:Collection ;
@@ -22,7 +21,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Adamawa"@eng-Latn ,
         "Adamaoua"@fra-Latn ;
-    wdata:q7200235 "CM001" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -53,7 +51,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "South-West"@eng-Latn ,
         "Sud-Ouest"@fra-Latn ;
-    wdata:q7200235 "CM010" ;
 .
 
 <urn:mdciii:1603:16:120:1:2>
@@ -64,7 +61,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Centre"@eng-Latn ,
         "Centre"@fra-Latn ;
-    wdata:q7200235 "CM002" ;
 .
 
 <urn:mdciii:1603:16:120:1:3>
@@ -75,7 +71,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "East"@eng-Latn ,
         "Est"@fra-Latn ;
-    wdata:q7200235 "CM003" ;
 .
 
 <urn:mdciii:1603:16:120:1:4>
@@ -86,7 +81,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Far-North"@eng-Latn ,
         "Extrême-Nord"@fra-Latn ;
-    wdata:q7200235 "CM004" ;
 .
 
 <urn:mdciii:1603:16:120:1:5>
@@ -97,7 +91,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "Littoral"@eng-Latn ,
         "Littoral"@fra-Latn ;
-    wdata:q7200235 "CM005" ;
 .
 
 <urn:mdciii:1603:16:120:1:6>
@@ -108,7 +101,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "North"@eng-Latn ,
         "Nord"@fra-Latn ;
-    wdata:q7200235 "CM006" ;
 .
 
 <urn:mdciii:1603:16:120:1:7>
@@ -119,7 +111,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "North-West"@eng-Latn ,
         "Nord-Ouest"@fra-Latn ;
-    wdata:q7200235 "CM007" ;
 .
 
 <urn:mdciii:1603:16:120:1:8>
@@ -130,7 +121,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "West"@eng-Latn ,
         "Ouest"@fra-Latn ;
-    wdata:q7200235 "CM008" ;
 .
 
 <urn:mdciii:1603:16:120:1:9>
@@ -141,6 +131,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     skos:prefLabel
         "South"@eng-Latn ,
         "Sud"@fra-Latn ;
-    wdata:q7200235 "CM009" ;
 .
 
